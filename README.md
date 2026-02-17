@@ -1,1 +1,2 @@
 # CAHMTL_Arrhythmia
+The proposed method has been implemented in the file CA_HMTL_MITBIH.py. The current code demonstrates the implementation using the MIT-BIH dataset only. A partial dataset comprising the first 20 records containing Morphological features and 3 records of Temporal features is provided in the morphological and temporal folders, respectively, for demonstration purposes. Due to space issues, not all files were uploaded. The remaining MIT-BIH data files, INCART dataset files, and additional supporting codes will be made available upon request.
